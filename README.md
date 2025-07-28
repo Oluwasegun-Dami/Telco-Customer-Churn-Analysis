@@ -1,7 +1,6 @@
 # Telco-Customer-Churn-Analysis
 ## Project Objective 
-Understand why customers leave the company (churn), key factors, and predict focused customer retention programs. 
-This will help the company reduce customer loss and run smarter, more focused on retention programs.
+Predict behavior to retain customers, by analyzing all relevant customer data and develop focused customer retention programs.
 
 # Dataset used 
 https://github.com/Oluwasegun-Dami/Telco-Customer-Churn-Analysis/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv
@@ -9,7 +8,7 @@ https://github.com/Oluwasegun-Dami/Telco-Customer-Churn-Analysis/blob/main/WA_Fn
 # Dashboard Interaction 
 https://github.com/Oluwasegun-Dami/Telco-Customer-Churn-Analysis/blob/main/Dashboard.jpeg
 
-##  Key Findings
+##  Key Findings To Predict Behaviour to Retain Customers 
 ###  Short Contracts – Easy to Leave  
 **Insight:** Most customers who left were on month-to-month contracts.  
 **Recommendation:** Encourage longer contracts with discounts or bundles.
