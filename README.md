@@ -8,7 +8,7 @@ https://github.com/Oluwasegun-Dami/Telco-Customer-Churn-Analysis/blob/main/WA_Fn
 # Dashboard Interaction 
 https://github.com/Oluwasegun-Dami/Telco-Customer-Churn-Analysis/blob/main/Dashboard.jpeg
 
-##  Key Findings To Predict Behaviour to Retain Customers 
+##  Key Findings
 ###  Short Contracts – Easy to Leave  
 **Insight:** Most customers who left were on month-to-month contracts.  
 **Recommendation:** Encourage longer contracts with discounts or bundles.
