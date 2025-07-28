@@ -42,5 +42,6 @@ By focusing on:
 - Supporting new and high-paying users  
 - Improving Fiber and streaming services  
 - Understanding payment habits
+  
 ...the company can reduce churn and run smarter to retain their customers
 
